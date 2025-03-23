@@ -55,7 +55,7 @@ export default function Home() {
         </a>
         {/* Ícono de Instagram */}
         <a
-          href="https://instagram.com/tu_cuenta"
+          href="https://www.instagram.com/elpolloncomidasrapidas/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-700 hover:text-pink-500"
