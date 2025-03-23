@@ -39,7 +39,7 @@ export default function Home() {
       <section className="flex flex-row space-x-6 mb-6">
         {/* Ícono de WhatsApp */}
         <a
-          href="https://wa.me/XXXXXXXXXX"
+          href="https://wa.link/m9z86j"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-700 hover:text-green-500"
@@ -97,7 +97,7 @@ export default function Home() {
 
         {/* Botón para Instagram */}
         <a
-          href="https://instagram.com/tu_cuenta"
+          href="https://www.instagram.com/elpolloncomidasrapidas/"
           target="_blank"
           rel="noopener noreferrer"
           className="block w-full rounded-full bg-[#f2eadc] py-3 text-center 
