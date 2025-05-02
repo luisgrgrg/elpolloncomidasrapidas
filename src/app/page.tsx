@@ -75,7 +75,7 @@ export default function Home() {
       <section className="flex flex-col w-full max-w-sm space-y-4">
         {/* Botón para Menú */}
         <a
-          href="https://www.canva.com/design/DAGgItr4_js/RkNbH120wAbXnrhzMEQJng/view?utlId=hff163fb67a&fbclid=PAZXh0bgNhZW0CMTEAAaaouILgX4QtEF6xG3H-6aU9tuZ0tG0NFxDkX69RsKxuIXrLQrirbhiy53g_aem_lEQg0l9KCQ_vs2DrgMNRNg"
+          href="https://www.canva.com/design/DAGl2O9Jz7g/kvHkYDKMJZOgZ2ErVVfV5Q/edit?utm_content=DAGl2O9Jz7g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
           className="block w-full rounded-full bg-[#f2eadc] py-3 text-center 
                      font-medium text-gray-800 hover:bg-[#e0d3c3] shadow-sm
                      transition-all"
